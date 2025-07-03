@@ -1,5 +1,3 @@
-Creating a GitHub repository format for your AntiAFK plugin description involves setting up a clear structure to showcase its features, installation instructions, configuration options, and support details. Here’s how you can structure it:
-
 ### AntiAFK Plugin
 
 #### Description
@@ -13,7 +11,7 @@ The AntiAFK plugin manages and mitigates player inactivity on Minecraft servers.
 - **Admin Notifications:** Alerts server operators of AFK players and kicks.
 - **Permission Support:** Permissions for bypassing AFK checks and executing plugin commands.
 
-#### Configuration
+#### Example Configuration
 ```yaml
 # Configuration for the AntiAFK plugin
 prefix: "&7[Antiafk]&r "
@@ -65,7 +63,7 @@ For issues or feature requests:
 ---
 
 Ownership Statement
-This AntiAFK plugin is an original creation owned exclusively by Neast. All rights to the source code, configurations, and any other part of the plugin are reserved to [Your Name]. No individual or entity is permitted to reproduce, copy, redistribute, or modify this plugin without the express permission of Neast.
+This AntiAFK plugin is an original creation owned exclusively by Neast. All rights to the source code, configurations, and any other part of the plugin are reserved to Neast. No individual or entity is permitted to reproduce, copy, redistribute, or modify this plugin without the express permission of Neast.
 
 Any infringement of this policy will be handled in accordance with applicable copyright laws.
 
